@@ -1,1 +1,2 @@
-Painting is godd hobby. 
+https://github.com/Ranjanas25/pmd/tree/master/docs
+https://github.com/Ranjanas25/pmd/tree/master/pmd-core
