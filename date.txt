@@ -1,4 +1,6 @@
-Simpledateformat ttime = new simpledateformate(hh:mm:ss);
-ttime.getTime();
-String date = dformat(ttime.getTime());
-time.setText(format.dformat(ttime.getTime()));
+
+
+Simpledateformat date= new simpledateformate(YYYY/MM/DD);
+date.getTime();
+String date = dformat(date.getTime());
+date.setText(format.dformat(date.getTime()));
